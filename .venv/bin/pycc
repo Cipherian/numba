@@ -1,0 +1,3 @@
+#!/home/cyphe/projects/courses/class401/numba/.venv/bin/python3.10
+from numba.pycc import main
+main()
